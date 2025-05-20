@@ -1,7 +1,7 @@
 {
-  "name": "egg-mongoose",
+  "name": "knowhy-mongoose",
   "version": "4.0.1",
-  "description": "egg mongoose plugin",
+  "description": "knowhy-mongoose",
   "eggPlugin": {
     "name": "mongoose"
   },
@@ -48,9 +48,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-mongoose.git"
-  },
-  "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "git+https://github.com/wgz13/knowhy-mongoose.git"
   }
 }
